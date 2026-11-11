@@ -1,0 +1,2 @@
+# reisulqurra-releases
+ReisulQurra sürümleri
