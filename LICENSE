@@ -1,0 +1,83 @@
+REISULQURRA — KULLANIM ŞARTLARI / TÜM HAKLARI SAKLIDIR
+
+Copyright (c) 2026 <ADINIZ / KURUMUNUZ>. Tüm hakları saklıdır.
+
+1. KAPSAM
+Bu şartlar ReisulQurra uygulamasının tamamını kapsar: yazılım ve kaynak kodu, arayüz ve tasarım, simgeler ve görseller,
+metinler ve çeviriler, ezber yöntemleri ve algoritmaları, ders içerikleri, veri düzenlemeleri ve kurulum dosyaları.
+Uygulamanın kaynak kodu bu depoda yayımlanmaz ve hiçbir açık kaynak lisansıyla sunulmaz.
+
+2. İZİN VERİLEN KULLANIM
+Uygulamayı, resmî sürümlerden indirerek kendi cihazlarınıza kurabilir ve kişisel, eğitim amaçlı, ticari olmayan şekilde
+ücretsiz kullanabilirsiniz. Okul ve kurumlar, uygulamayı kendi cihazlarına (örneğin etkileşimli tahtalara) kurabilir.
+
+3. YASAK OLANLAR (yazılı izin olmadan)
+- Yazılımı, kaynak kodunu, tasarımını veya içeriğini kopyalamak, çoğaltmak, değiştirmek, uyarlamak, çevirmek;
+- Yazılımı tersine mühendislik, kod çözme (decompile / unpack), kaynak kodu veya içeriklerini çıkarma yoluyla incelemek ya da
+  bunlardan türev eser, uygulama veya hizmet üretmek (yasanın açıkça izin verdiği haller hariç);
+- Kurulum dosyalarını yeniden dağıtmak, başka bir yerden indirmeye sunmak, satmak, kiralamak, paylaştırmak;
+- Uygulamanın içeriğini, ezber yöntemlerini, ders materyallerini, veri dosyalarını veya düzenlemelerini toplu olarak çekmek
+  (kazımak, scraping), veri setine dönüştürmek veya yapay zekâ / makine öğrenmesi modellerini eğitmekte kullanmak;
+- Adı, logosu veya görünümüyle karıştırılabilecek benzer bir ürün yayımlamak veya uygulamayı başka bir ürüne dâhil etmek;
+- Güncelleme, ağ ve güvenlik mekanizmalarını devre dışı bırakmak veya kötüye kullanmak.
+
+4. ÜÇÜNCÜ TARAF İÇERİK VE AÇIK KAYNAK BİLEŞENLER
+Uygulama; Kur'an metni, sesler, veri servisleri ve açık kaynak yazılımlar gibi üçüncü kişilere ait bileşenler içerir. Bunlar
+kendi sahiplerine aittir ve kendi lisanslarına tabidir (bkz. THIRD-PARTY-NOTICES.txt). Bu şartlar o bileşenler üzerinde hak
+iddia etmez ve onların kendi lisanslarının tanıdığı hakları sınırlamaz. Kur'an metni üzerinde mülkiyet iddia edilmemektedir;
+yalnızca bu uygulamanın özgün yazılımı, tasarımı, düzenlemesi ve özgün içerikleri korunur.
+
+5. İZİN TALEBİ
+Yukarıdaki yasaklardan birine ihtiyaç duyuyorsanız önceden yazılı izin isteyin: <İLETİŞİM E-POSTASI>.
+
+6. GARANTİ YOK, SORUMLULUK
+Yazılım "olduğu gibi" sunulur; açık veya zımni hiçbir garanti verilmez. Yürürlükteki zorunlu hukuk kuralları izin verdiği
+ölçüde, yazılımın kullanımından doğan zararlardan sorumluluk kabul edilmez. Sesli tanıma sonuçları hatalı olabilir ve Kur'an
+öğretmeninin yerini tutmaz. Kanunen sınırlandırılamayan haklarınız saklıdır.
+
+7. SONA ERME
+Bu şartlara aykırı kullanım hâlinde kullanım izniniz kendiliğinden sona erer; uygulamayı kaldırmanız gerekir. Hukuki yollara
+başvurma hakkı saklıdır.
+
+=====================================================================
+
+REISULQURRA — TERMS OF USE / ALL RIGHTS RESERVED
+
+Copyright (c) 2026 <YOUR NAME / ORGANIZATION>. All rights reserved.
+
+1. SCOPE
+These terms cover the entire ReisulQurra application: software and source code, interface and design, icons and images,
+texts and translations, memorization methods and algorithms, lesson content, data compilations and installers.
+The source code is not published in this repository and is not offered under any open-source license.
+
+2. PERMITTED USE
+You may install the application from the official releases on your own devices and use it free of charge for personal,
+educational, non-commercial purposes. Schools and institutions may install it on their own devices (e.g. interactive boards).
+
+3. PROHIBITED (without prior written permission)
+- Copying, reproducing, modifying, adapting or translating the software, source code, design or content;
+- Reverse engineering, decompiling or unpacking the software, or extracting its source code or content, or creating derivative
+  works, apps or services from it (except where applicable law expressly permits);
+- Redistributing, re-hosting, selling, renting or sharing the installers;
+- Bulk-extracting (scraping) the app's content, memorization methods, lesson materials, data files or compilations, turning
+  them into datasets, or using them to train AI / machine-learning models;
+- Publishing a confusingly similar product (name, logo or look) or incorporating the app into another product;
+- Disabling or abusing the update, network or security mechanisms.
+
+4. THIRD-PARTY CONTENT AND OPEN-SOURCE COMPONENTS
+The application contains third-party components such as Quran text, audio, data services and open-source software. These belong
+to their owners and are subject to their own licenses (see THIRD-PARTY-NOTICES.txt). These terms claim no rights over those
+components and do not restrict the rights their own licenses grant. No ownership is claimed over the Quran text; only the
+application's original software, design, arrangement and original content are protected.
+
+5. PERMISSION REQUESTS
+If you need any of the above, request written permission first: <CONTACT E-MAIL>.
+
+6. NO WARRANTY, LIABILITY
+The software is provided "as is" without warranty of any kind. To the extent permitted by mandatory law, no liability is accepted
+for damages arising from its use. Speech-recognition results may be inaccurate and do not replace a Quran teacher.
+Rights that cannot be limited by law are reserved.
+
+7. TERMINATION
+Use in breach of these terms automatically ends your permission to use the software, and you must uninstall it.
+The right to pursue legal remedies is reserved.
