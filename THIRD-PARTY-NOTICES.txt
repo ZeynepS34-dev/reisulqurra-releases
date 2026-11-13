@@ -1,0 +1,26 @@
+ReisulQurra - Üçüncü taraf bileşenler / Third-party notices
+
+- Tilawa (@tilawa/core), yazinsai ........................ MIT License (github.com/yazinsai/tilawa)
+- Arapça ses tanıma modeli (FastConformer) .............. NVIDIA stt_ar_fastconformer_hybrid_large_pcd_v1.0, © NVIDIA —
+  Creative Commons Attribution 4.0 (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+  Kaynak: https://huggingface.co/nvidia/stt_ar_fastconformer_hybrid_large_pcd_v1.0
+  DEĞİŞİKLİK: Tilawa projesi tarafından Kur'an için uyarlanmış ve ONNX'e dönüştürülmüştür / adapted and converted to ONNX by the Tilawa project.
+- ONNX Runtime (onnxruntime-node, Microsoft) ............. MIT License
+- Kur'an metni: Tanzil (tanzil.net) — metin değiştirilmeden, kaynak belirtilerek kullanılır.
+- Electron ............................................... MIT License (Chromium: LICENSES.chromium.html)
+
+MIT License metni (Tilawa © 2026 yazinsai; ONNX Runtime © Microsoft; Electron © OpenJS/GitHub): https://opensource.org/license/mit — tam metin kurulumdaki NOTICE.txt ve kurulum onay sayfasındadır.
+CC-BY-4.0 metni: https://creativecommons.org/licenses/by/4.0/
+Bu bileşenlerin telif hakları kendi sahiplerine aittir; ReisulQurra'nın kendi kodu ve içeriği ayrı lisanslıdır.
+
+--- Mushaf, ses ve veri kaynakları / Mushaf, audio and data sources ---
+- Kral Fahd Kur'an-ı Kerim Basım Kompleksi (KFGQPC) ....... KFGQPC V1/V2 düzenleri ve mushaf sayfa çizimleri
+- quran-svg (Quran.ws) — github.com/quran-ws/quran-svg ... veri/metadata katmanı CC BY 4.0, araçlar MIT; rivayet sayfaları (Hafs, Warş, Kâlûn, Dûrî, Şu'be) ve âyet koordinatları
+- Sayfa çizimleri: King Fahd Glorious Qur'an Printing Complex (مجمع الملك فهد لطباعة المصحف الشريف), qurancomplex.gov.sa — çizimlerin hakları Kompleks'e aittir, dijital kopya ücretsiz kullanıma sunulmuştur
+- Diyanet Mushafı ......................................... sayfa görselleri ve âyet konumları
+- EveryAyah.com ........................................... Warş ses kayıtları
+- MP3Quran.net ............................................ Kâlûn, Şu'be, Dûrî ses kayıtları ve zamanlamalar
+- Tarteel Quran API (qul.tarteel.ai) ...................... Kur'an verileri
+- Quran.com (Quran Foundation) ............................ Kur'an verileri
+- Hafız Hasan Hüseyin Varol ............................... Tashih ve Tecvid ders içerikleri
+Kayıtların manevi hakları ilgili kârîlere ve yayıncılara aittir.

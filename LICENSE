@@ -1,83 +1,149 @@
-REISULQURRA — KULLANIM ŞARTLARI / TÜM HAKLARI SAKLIDIR
+REISULQURRA — KULLANIM ŞARTLARI VE LİSANS / TÜM HAKLARI SAKLIDIR
 
 Copyright (c) 2026 <ADINIZ / KURUMUNUZ>. Tüm hakları saklıdır.
+"ReisulQurra" adı, ağaç logosu ve uygulamanın görünümü <ADINIZ / KURUMUNUZ>'a aittir.
+
+Bu depodaki kurulum dosyalarını indirmeniz, kurmanız veya kullanmanız bu şartları kabul ettiğiniz anlamına gelir.
+Kabul etmiyorsanız indirmeyin ve kullanmayın.
 
 1. KAPSAM
-Bu şartlar ReisulQurra uygulamasının tamamını kapsar: yazılım ve kaynak kodu, arayüz ve tasarım, simgeler ve görseller,
-metinler ve çeviriler, ezber yöntemleri ve algoritmaları, ders içerikleri, veri düzenlemeleri ve kurulum dosyaları.
-Uygulamanın kaynak kodu bu depoda yayımlanmaz ve hiçbir açık kaynak lisansıyla sunulmaz.
+Bu şartlar ReisulQurra uygulamasının tamamını kapsar: yazılım ve kaynak kodu, arayüz ve tasarım, ad, logo, simgeler ve görseller,
+metinler ve çeviriler, ezber yöntemleri ve algoritmaları, ders içerikleri, veri düzenlemeleri, kurulum dosyaları ve bu depodaki
+tüm dosyalar. Uygulamanın kaynak kodu bu depoda yayımlanmaz ve hiçbir açık kaynak lisansıyla sunulmaz; bu depoya erişim veya
+uygulamanın dağıtılması size kaynak kodu üzerinde herhangi bir hak vermez. Bu şartlarda açıkça verilmeyen tüm haklar saklıdır.
 
 2. İZİN VERİLEN KULLANIM
-Uygulamayı, resmî sürümlerden indirerek kendi cihazlarınıza kurabilir ve kişisel, eğitim amaçlı, ticari olmayan şekilde
-ücretsiz kullanabilirsiniz. Okul ve kurumlar, uygulamayı kendi cihazlarına (örneğin etkileşimli tahtalara) kurabilir.
+Uygulamayı yalnızca bu depodaki resmî sürümlerden indirerek kendi cihazlarınıza kurabilir ve kişisel, eğitim amaçlı, ticari
+olmayan şekilde ücretsiz kullanabilirsiniz. Okul, medrese, kurs ve benzeri kurumlar uygulamayı kendi cihazlarına (örneğin
+etkileşimli tahtalara) kurabilir. Bu izin devredilemez, münhasır olmayan, geri alınabilir bir kullanım iznidir; yazılım size
+satılmaz, yalnızca kullanım izni verilir.
 
-3. YASAK OLANLAR (yazılı izin olmadan)
-- Yazılımı, kaynak kodunu, tasarımını veya içeriğini kopyalamak, çoğaltmak, değiştirmek, uyarlamak, çevirmek;
-- Yazılımı tersine mühendislik, kod çözme (decompile / unpack), kaynak kodu veya içeriklerini çıkarma yoluyla incelemek ya da
-  bunlardan türev eser, uygulama veya hizmet üretmek (yasanın açıkça izin verdiği haller hariç);
-- Kurulum dosyalarını yeniden dağıtmak, başka bir yerden indirmeye sunmak, satmak, kiralamak, paylaştırmak;
+3. YASAK OLANLAR (önceden yazılı izin olmadan)
+- Yazılımı, kaynak kodunu, tasarımını veya içeriğini kopyalamak, çoğaltmak, değiştirmek, uyarlamak, çevirmek, birleştirmek;
+- Yazılımı tersine mühendislik, kod çözme (decompile / disassemble / unpack), paket açma, kaynak kodu veya içeriklerini çıkarma
+  yoluyla incelemek ya da bunlardan türev eser, uygulama, site veya hizmet üretmek (yasanın açıkça izin verdiği haller hariç);
+- Kurulum dosyalarını yeniden dağıtmak, başka bir yerden indirmeye sunmak, yansılamak (mirror), mağazalara yüklemek, satmak,
+  kiralamak, ödünç vermek, paylaştırmak veya bir pakete / sürücü imajına dâhil etmek;
 - Uygulamanın içeriğini, ezber yöntemlerini, ders materyallerini, veri dosyalarını veya düzenlemelerini toplu olarak çekmek
-  (kazımak, scraping), veri setine dönüştürmek veya yapay zekâ / makine öğrenmesi modellerini eğitmekte kullanmak;
-- Adı, logosu veya görünümüyle karıştırılabilecek benzer bir ürün yayımlamak veya uygulamayı başka bir ürüne dâhil etmek;
-- Güncelleme, ağ ve güvenlik mekanizmalarını devre dışı bırakmak veya kötüye kullanmak.
+  (kazımak, scraping), veri setine dönüştürmek veya yapay zekâ / makine öğrenmesi modellerini eğitmekte, ince ayarlamakta
+  ya da değerlendirmekte kullanmak;
+- Adı, logosu veya görünümüyle karıştırılabilecek benzer bir ürün yayımlamak, uygulamanın adını / logosunu izinsiz kullanmak,
+  kendinizi uygulamanın sahibi veya yazarı gibi göstermek ya da uygulamayı başka bir ürüne dâhil etmek;
+- Uygulamayı kötü amaçlı yazılım, reklam, izleme, ücretli erişim veya başka bir yazılımla birlikte paketleyip yeniden sunmak;
+- Güncelleme, ağ, bütünlük (özet doğrulama) ve güvenlik mekanizmalarını devre dışı bırakmak, atlatmak veya kötüye kullanmak;
+- Uygulamayı yasa dışı amaçlarla veya üçüncü kişilerin haklarını ihlal edecek şekilde kullanmak.
 
-4. ÜÇÜNCÜ TARAF İÇERİK VE AÇIK KAYNAK BİLEŞENLER
-Uygulama; Kur'an metni, sesler, veri servisleri ve açık kaynak yazılımlar gibi üçüncü kişilere ait bileşenler içerir. Bunlar
-kendi sahiplerine aittir ve kendi lisanslarına tabidir (bkz. THIRD-PARTY-NOTICES.txt). Bu şartlar o bileşenler üzerinde hak
-iddia etmez ve onların kendi lisanslarının tanıdığı hakları sınırlamaz. Kur'an metni üzerinde mülkiyet iddia edilmemektedir;
-yalnızca bu uygulamanın özgün yazılımı, tasarımı, düzenlemesi ve özgün içerikleri korunur.
+4. FİKRÎ MÜLKİYET
+Uygulamanın özgün yazılımı, tasarımı, adı, logosu, düzenlemesi ve özgün içerikleri, ilgili telif hakkı ve fikrî mülkiyet
+mevzuatıyla (Türkiye'de 5846 sayılı Fikir ve Sanat Eserleri Kanunu dâhil) ve uluslararası sözleşmelerle korunur. Uygulama
+hakkında verdiğiniz geri bildirim ve önerileri, size herhangi bir yükümlülük doğurmaksızın kullanma hakkımız saklıdır.
 
-5. İZİN TALEBİ
-Yukarıdaki yasaklardan birine ihtiyaç duyuyorsanız önceden yazılı izin isteyin: <İLETİŞİM E-POSTASI>.
+5. ÜÇÜNCÜ TARAF İÇERİK VE AÇIK KAYNAK BİLEŞENLER
+Uygulama; Kur'an metni, mushaf görselleri, sesler, veri servisleri ve açık kaynak yazılımlar gibi üçüncü kişilere ait bileşenler
+içerir. Bunlar kendi sahiplerine aittir ve kendi lisanslarına tabidir (bkz. THIRD-PARTY-NOTICES.txt). Bu şartlar o bileşenler
+üzerinde hak iddia etmez ve onların kendi lisanslarının tanıdığı hakları sınırlamaz. Kur'an metni ve mushaf çizimleri üzerinde
+mülkiyet iddia edilmemektedir; yalnızca bu uygulamanın özgün yazılımı, tasarımı, düzenlemesi ve özgün içerikleri korunur.
+Üçüncü taraf bileşenleri o bileşenin kendi lisansı dışında ayıklayıp kullanmak da bu şartlarla ayrıca yasaktır.
 
-6. GARANTİ YOK, SORUMLULUK
-Yazılım "olduğu gibi" sunulur; açık veya zımni hiçbir garanti verilmez. Yürürlükteki zorunlu hukuk kuralları izin verdiği
-ölçüde, yazılımın kullanımından doğan zararlardan sorumluluk kabul edilmez. Sesli tanıma sonuçları hatalı olabilir ve Kur'an
-öğretmeninin yerini tutmaz. Kanunen sınırlandırılamayan haklarınız saklıdır.
+6. İZİN TALEBİ
+Yukarıdaki yasaklardan birine ihtiyaç duyuyorsanız önceden yazılı izin isteyin: <İLETİŞİM E-POSTASI>. Yazılı izin yoksa
+izin verilmemiş sayılır.
 
-7. SONA ERME
-Bu şartlara aykırı kullanım hâlinde kullanım izniniz kendiliğinden sona erer; uygulamayı kaldırmanız gerekir. Hukuki yollara
-başvurma hakkı saklıdır.
+7. İHLAL BİLDİRİMİ
+Bu şartların veya haklarımızın ihlal edildiğini düşünüyorsanız (ör. izinsiz kopya, yeniden dağıtım, sahte sürüm) <İLETİŞİM E-POSTASI>
+adresine bildirebilirsiniz. İhlal hâlinde barındırma sağlayıcılarına ve platformlara kaldırma talebi iletme dâhil, her türlü
+hukuki ve cezai yola başvurma hakkımız saklıdır.
+
+8. GARANTİ YOK, SORUMLULUK
+Yazılım "olduğu gibi" ve "mevcut hâliyle" sunulur; ticarî elverişlilik, belirli bir amaca uygunluk, kesintisiz veya hatasız
+çalışma dâhil açık veya zımni hiçbir garanti verilmez. Yürürlükteki zorunlu hukuk kuralları izin verdiği ölçüde, yazılımın
+kullanımından veya kullanılamamasından doğan hiçbir dolaylı veya doğrudan zarardan sorumluluk kabul edilmez. Sesli tanıma
+sonuçları hatalı olabilir; Kur'an öğretmeninin yerini tutmaz, tecvid ve okuyuş doğruluğu için bir hocaya danışmalısınız.
+Kanunen sınırlandırılamayan haklarınız saklıdır.
+
+9. SONA ERME
+Bu şartlara aykırı kullanım hâlinde kullanım izniniz kendiliğinden sona erer; uygulamayı kaldırmanız ve elinizdeki kopyaları
+silmeniz gerekir. Şartlar sona erse de 3., 4., 5., 7., 8. ve 10. maddeler geçerliliğini korur.
+
+10. GEÇERLİ HUKUK VE YETKİ
+Bu şartlara Türkiye Cumhuriyeti hukuku uygulanır. Uyuşmazlıklarda <ŞEHİR> mahkemeleri ve icra daireleri yetkilidir; zorunlu
+tüketici ve kişisel verilere ilişkin yetki kuralları saklıdır.
+
+11. BÖLÜNEBİLİRLİK, DEĞİŞİKLİK
+Bu şartların bir maddesi geçersiz sayılırsa diğer maddeler geçerliliğini korur. Şartlar güncellenebilir; güncel metin bu depoda
+yayımlanır ve yeni sürümlerle birlikte uygulanır.
 
 =====================================================================
 
-REISULQURRA — TERMS OF USE / ALL RIGHTS RESERVED
+REISULQURRA — TERMS OF USE AND LICENSE / ALL RIGHTS RESERVED
 
 Copyright (c) 2026 <YOUR NAME / ORGANIZATION>. All rights reserved.
+The name "ReisulQurra", the tree logo and the look and feel of the app belong to <YOUR NAME / ORGANIZATION>.
+
+By downloading, installing or using the files in this repository you accept these terms. If you do not accept them, do not
+download or use the software.
 
 1. SCOPE
-These terms cover the entire ReisulQurra application: software and source code, interface and design, icons and images,
-texts and translations, memorization methods and algorithms, lesson content, data compilations and installers.
-The source code is not published in this repository and is not offered under any open-source license.
+These terms cover the entire ReisulQurra application: software and source code, interface and design, name, logo, icons and
+images, texts and translations, memorization methods and algorithms, lesson content, data compilations, installers and every
+file in this repository. The source code is not published here and is not offered under any open-source license; access to
+this repository or distribution of the app grants you no rights in the source code. All rights not expressly granted are reserved.
 
 2. PERMITTED USE
-You may install the application from the official releases on your own devices and use it free of charge for personal,
-educational, non-commercial purposes. Schools and institutions may install it on their own devices (e.g. interactive boards).
+You may install the application, downloaded only from the official releases in this repository, on your own devices and use it
+free of charge for personal, educational, non-commercial purposes. Schools, madrasas, courses and similar institutions may
+install it on their own devices (e.g. interactive boards). This is a non-transferable, non-exclusive, revocable permission to
+use; the software is licensed, not sold.
 
 3. PROHIBITED (without prior written permission)
-- Copying, reproducing, modifying, adapting or translating the software, source code, design or content;
-- Reverse engineering, decompiling or unpacking the software, or extracting its source code or content, or creating derivative
-  works, apps or services from it (except where applicable law expressly permits);
-- Redistributing, re-hosting, selling, renting or sharing the installers;
+- Copying, reproducing, modifying, adapting, translating or merging the software, source code, design or content;
+- Reverse engineering, decompiling, disassembling or unpacking the software, or extracting its source code or content, or
+  creating derivative works, apps, sites or services from it (except where applicable law expressly permits);
+- Redistributing, re-hosting, mirroring, uploading to stores, selling, renting, lending, sharing the installers, or including
+  them in any bundle or disk image;
 - Bulk-extracting (scraping) the app's content, memorization methods, lesson materials, data files or compilations, turning
-  them into datasets, or using them to train AI / machine-learning models;
-- Publishing a confusingly similar product (name, logo or look) or incorporating the app into another product;
-- Disabling or abusing the update, network or security mechanisms.
+  them into datasets, or using them to train, fine-tune or evaluate AI / machine-learning models;
+- Publishing a confusingly similar product, using the app's name or logo without permission, presenting yourself as its owner
+  or author, or incorporating the app into another product;
+- Bundling and re-offering the app with malware, advertising, tracking, paid access or other software;
+- Disabling, circumventing or abusing the update, network, integrity-check (hash verification) or security mechanisms;
+- Using the app for unlawful purposes or in a way that infringes third-party rights.
 
-4. THIRD-PARTY CONTENT AND OPEN-SOURCE COMPONENTS
-The application contains third-party components such as Quran text, audio, data services and open-source software. These belong
-to their owners and are subject to their own licenses (see THIRD-PARTY-NOTICES.txt). These terms claim no rights over those
-components and do not restrict the rights their own licenses grant. No ownership is claimed over the Quran text; only the
-application's original software, design, arrangement and original content are protected.
+4. INTELLECTUAL PROPERTY
+The application's original software, design, name, logo, arrangement and original content are protected by copyright and other
+intellectual-property laws and international treaties. We may use any feedback or suggestions you give about the app without
+obligation to you.
 
-5. PERMISSION REQUESTS
-If you need any of the above, request written permission first: <CONTACT E-MAIL>.
+5. THIRD-PARTY CONTENT AND OPEN-SOURCE COMPONENTS
+The application contains third-party components such as Quran text, mushaf images, audio, data services and open-source software.
+These belong to their owners and are subject to their own licenses (see THIRD-PARTY-NOTICES.txt). These terms claim no rights over
+those components and do not restrict the rights their own licenses grant. No ownership is claimed over the Quran text or mushaf
+drawings; only the application's original software, design, arrangement and original content are protected. Extracting and using
+third-party components outside their own license is likewise prohibited by these terms.
 
-6. NO WARRANTY, LIABILITY
-The software is provided "as is" without warranty of any kind. To the extent permitted by mandatory law, no liability is accepted
-for damages arising from its use. Speech-recognition results may be inaccurate and do not replace a Quran teacher.
+6. PERMISSION REQUESTS
+If you need any of the above, request written permission first: <CONTACT E-MAIL>. Without written permission, no permission is given.
+
+7. INFRINGEMENT REPORTS
+If you believe these terms or our rights are being violated (e.g. unauthorised copies, redistribution, fake builds), report it to
+<CONTACT E-MAIL>. We reserve the right to pursue all legal and criminal remedies, including takedown requests to hosting
+providers and platforms.
+
+8. NO WARRANTY, LIABILITY
+The software is provided "as is" and "as available" without warranty of any kind, express or implied, including merchantability,
+fitness for a particular purpose, or uninterrupted or error-free operation. To the extent permitted by mandatory law, no liability
+is accepted for any direct or indirect damages arising from the use of, or inability to use, the software. Speech-recognition
+results may be inaccurate and do not replace a Quran teacher; consult a teacher for tajweed and recitation accuracy.
 Rights that cannot be limited by law are reserved.
 
-7. TERMINATION
-Use in breach of these terms automatically ends your permission to use the software, and you must uninstall it.
-The right to pursue legal remedies is reserved.
+9. TERMINATION
+Use in breach of these terms automatically ends your permission to use the software, and you must uninstall it and delete all
+copies. Sections 3, 4, 5, 7, 8 and 10 survive termination.
+
+10. GOVERNING LAW AND JURISDICTION
+These terms are governed by the laws of the Republic of Türkiye. The courts and enforcement offices of <CITY> have jurisdiction,
+subject to mandatory consumer and data-protection jurisdiction rules.
+
+11. SEVERABILITY, CHANGES
+If any provision is held invalid, the rest remain in force. These terms may be updated; the current text is published in this
+repository and applies with new releases.
